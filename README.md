@@ -17,3 +17,5 @@ CSV File Handling
 Matplotlib (Data Visualization)
 
 The project uses a pie chart to show how expenses are distributed across different categories, making it easier to understand spending habits visually.
+
+I also added a demo pie chart.
